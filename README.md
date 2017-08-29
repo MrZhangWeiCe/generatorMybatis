@@ -1,0 +1,3 @@
+# generatorMybatis
+mybatis逆向生成代码
+自己做了一个逆向生成mybatis逆向生成代码的工具,可以直接拿来用,支持mysql的代码生成和Oracle的代码生成.
